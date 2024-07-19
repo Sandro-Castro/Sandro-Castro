@@ -4,7 +4,7 @@
 
 <hr>
 
-<p align = center>##Tecnologias usadas em meu dia a dia</p>
+<h1 align = center>Tecnologias usadas em meu dia a dia</h1>
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
