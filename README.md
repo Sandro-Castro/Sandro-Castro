@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+GitHub;Sinta-se+em+casa!" alt="Typing SVG"  /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4896&pause=983&center=true&width=500&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+GitHub;Sinta-se+em+casa!" alt="Typing SVG" /></a>
 
 <p >Fique a vontade para explorar meus repositórios!</p>
 
 <hr>
 
-<h3 align = center>Tecnologias usadas em meu dia a dia</h3>
+<h3 align = center>Tecnologias utilizadas em meu dia a dia</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -17,4 +17,4 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />  
   </div>
   <br>
-  <p>Sigo diariamente em busca do aperfeiçoamento das tecnologias acima!</p>
+  <p>Sigo diariamente em busca do aperfeiçoamento das mesmas!</p>
